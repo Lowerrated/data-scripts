@@ -1,1 +1,1 @@
-game.Players:ClearAllChildren()
+print('github roblox script')
